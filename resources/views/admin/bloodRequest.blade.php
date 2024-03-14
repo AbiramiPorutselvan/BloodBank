@@ -4,7 +4,7 @@
     		<div class="carddesign">
     		<table class="table">
     			<tr>
-    				<th>Name</th>
+    				<th>Requester Name/</th>
     				<th>Blood Group</th>
     				<th>District</th>
     				<th>Mobile No</th>
